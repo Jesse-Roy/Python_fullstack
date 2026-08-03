@@ -9,3 +9,10 @@ Flexbox
 Grid
 Responsive Design
 Bootstrap (Introduction)
+
+
+localhost:5500
+DNS-Domain Name Server
+
+.env/bin/activate --github codespace
+env\Scripts\activate --windows direct vs code

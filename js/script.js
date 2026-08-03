@@ -29,4 +29,10 @@ alert("Registration successful !");
 //Perform validation or further processing here
 console.log("Name:",name);
 console.log("Email:",email);
-console.log("password:",password);});
+console.log("Password:",password);});
+
+function squareNumber(num) {
+    return num*num;
+}
+x=squareNumber(5);
+console.log('Square of 5 is: $x')
